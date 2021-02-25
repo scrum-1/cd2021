@@ -4,64 +4,71 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>https://mdecourse.github.io/cmstemplate/blog/</loc>
-<lastmod>2020-11-04T21:11:17-00:00</lastmod>
+<loc>https://scrum-1.github.io/cd2021/blog/</loc>
+<lastmod>2021-02-25T15:49:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mdecourse.github.io/cmstemplate/blog/archives.html</loc>
-<lastmod>2020-11-04T21:11:17-00:00</lastmod>
+<loc>https://scrum-1.github.io/cd2021/blog/archives.html</loc>
+<lastmod>2021-02-25T15:49:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mdecourse.github.io/cmstemplate/blog/tags.html</loc>
-<lastmod>2020-11-04T21:11:17-00:00</lastmod>
+<loc>https://scrum-1.github.io/cd2021/blog/tags.html</loc>
+<lastmod>2021-02-25T15:49:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mdecourse.github.io/cmstemplate/blog/categories.html</loc>
-<lastmod>2020-11-04T21:11:17-00:00</lastmod>
+<loc>https://scrum-1.github.io/cd2021/blog/categories.html</loc>
+<lastmod>2021-02-25T15:49:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mdecourse.github.io/cmstemplate/blog/pages/about/</loc>
-<lastmod>2020-11-04T21:11:07+08:00</lastmod>
+<loc>https://scrum-1.github.io/cd2021/blog/pages/about/</loc>
+<lastmod>2021-02-25T15:14:59+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mdecourse.github.io/cmstemplate/blog/2020-Fall-Intro-to-computer-programming.html</loc>
-<lastmod>2020-11-04T14:50:54+08:00</lastmod>
+<loc>https://scrum-1.github.io/cd2021/blog/2020-Fall-Intro-to-computer-programming.html</loc>
+<lastmod>2021-02-25T15:14:59+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mdecourse.github.io/cmstemplate/blog/category/misc.html</loc>
-<lastmod>2020-11-04T14:50:54+08:06</lastmod>
+<loc>https://scrum-1.github.io/cd2021/blog/2020-Fall-Intro-to-computer-programming-1.html</loc>
+<lastmod>2021-02-25T15:30:26+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://scrum-1.github.io/cd2021/blog/category/misc.html</loc>
+<lastmod>2021-02-25T15:30:26+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mdecourse.github.io/cmstemplate/blog/tag/2020fallcp.html</loc>
-<lastmod>2020-11-04T14:50:54+08:06</lastmod>
+<loc>https://scrum-1.github.io/cd2021/blog/tag/2020fallcp.html</loc>
+<lastmod>2021-02-25T15:30:26+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mdecourse.github.io/cmstemplate/blog/author/yen.html</loc>
-<lastmod>2020-11-04T14:50:54+08:06</lastmod>
+<loc>https://scrum-1.github.io/cd2021/blog/author/yen.html</loc>
+<lastmod>2021-02-25T15:30:26+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
